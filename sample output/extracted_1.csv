@@ -1,0 +1,61 @@
+class,text
+O,IVKM verilmeden  aksiyel planda
+OBS-P,3 mm
+O,kalınlıkta kesitler elde olunmuştur.
+O,2022 tarihli toraks BT tetkiki ile kıyaslamalı değerlendirilmiştir.
+IMP,Soliter fibröz tümör
+O,nedeni ile
+IMP,opere
+O,olan hastada
+ANAT,trakea
+ANAT,her iki ana bronş
+OBS-P,açıktır
+ANAT,Mediastende
+OBS-P,kısa çapı 1 cm'yi geçmeyen
+OBS-P,lenf nodları
+O,izlenmiştir.
+ANAT,Her iki hilus
+OBS-U,inceleme kontrastsız olduğu için optimal değerlendirilememiştir
+ANAT,Her iki hemitoraksta
+ANAT,plevral
+OBS-A,effüzyon
+OBS-A,kalınlaşma
+O,bulgusu izlenmedi.
+ANAT,Kemik yapılarda
+OBS-P,minimal
+OBS-P,dejeneratif değişiklikler
+OBS-P,rotoskolyoz
+O,izlenmiş olup
+OBS-A,"litik, destrüktif"
+OBS-A,kitle lezyonu
+O,saptanmamıştır.
+ANAT,Her iki akciğer parankim alanlarının
+O,değerlendirilmesinde;
+OBS-A,pnömonik infiltrasyon
+O,saptanmamıştır.
+ANAT,Sağ akciğer
+ANAT,alt lob
+ANAT,düzeyinde
+ANAT,operasyon lojunda
+OBS-U,round atelektazi ile uyumlu bulgular
+OBS-P,sekel
+ANAT,subplevral yağlı dokuda artış
+O,dikkati çekmiş olup eski tetkik ile kıyaslandığında anlamlı farklılık saptanmadı.
+ANAT,Her iki akciğer parankiminde
+OBS-A,spiküle konturlu
+OBS-A,malignite kriterleri taşıyan
+OBS-A,nodül
+O,izlenmedi.
+O,Diğer BT bulgularında anlamlı farklılık izlenmedi.
+O,SONUÇ:
+IMP,Takipte
+IMP,opere
+IMP,soliter fibröz tümör
+ANAT,Sağ alt lob
+ANAT,düzeyinde
+ANAT,operasyon lojunda
+OBS-P,sekel fibroatelektazik değişiklikler
+ANAT,Kemik yapılarda
+OBS-P,dejeneratif değişiklikler
+OBS-A,Pnömoni
+O,saptanmadı.
