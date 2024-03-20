@@ -14,7 +14,7 @@ def mark_plain_text(html_content):
         str: The modified HTML content with marked plain text.
     """
 
-    excluded_terms = [".", " ", "ve", "veya", "ya da", "<br>", "-", "", ";", ",", "\"\"\"", "(", ")", ":", ". "]  # Terms to exclude
+    excluded_terms = [".", " ", "ve", "veya", "ya da", "<br>", "-", "", ";", ",", "\"\"\"", "(", ")", ":", ". ", "?)"]  # Terms to exclude
 
     soup = BeautifulSoup(html_content, 'html.parser')
     body = soup.find('body')
